@@ -1,7 +1,7 @@
-# Copy-Paste-Bone-Animation-Blender-Script
+# Copy-Paste-Bone-Animation
 Is a Python script used within Blender that copy and paste animation exclusively from and to multiple bones on an armature within the same or different Blender file.
 
-Users can begin using the script by first opening it in Blenders Text Editor and run the script which will add the UI “Scripts” to the N Panel ready for use.
+Users can begin using the script by first opening it in Blender's Text Editor and run the script which will add the UI “Scripts” to the N Panel ready for use.
 
 
 Script UI Content:
